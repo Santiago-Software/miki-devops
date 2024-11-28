@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShiraMadar\\Documents\\Projects\\miki-demo\\miki-demo-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07CEBD4-CB09-485F-A5B3-1E6B8C5197DC}|miki-demo-api.csproj|c:\\users\\shiramadar\\documents\\projects\\miki-demo\\miki-demo-api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E07CEBD4-CB09-485F-A5B3-1E6B8C5197DC}|miki-demo-api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07CEBD4-CB09-485F-A5B3-1E6B8C5197DC}|miki-demo-api.csproj|c:\\users\\shiramadar\\documents\\projects\\miki-demo\\miki-demo-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E07CEBD4-CB09-485F-A5B3-1E6B8C5197DC}|miki-demo-api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\ShiraMadar\\Documents\\Projects\\miki-demo\\miki-demo-api\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\ShiraMadar\\Documents\\Projects\\miki-demo\\miki-demo-api\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T07:38:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ShiraMadar\\Documents\\Projects\\miki-demo\\miki-demo-api\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ShiraMadar\\Documents\\Projects\\miki-demo\\miki-demo-api\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T07:19:12.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
